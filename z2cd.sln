@@ -10,9 +10,10 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A7287506-7CBA-4DFC-ADC5-7136D817ED7F}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		azure-pipelines.yml = azure-pipelines.yml
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "api.tests", "api.tests\api.tests.csproj", "{5D4FF6AA-9672-4035-8171-FDF154E76BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "api.tests", "api.tests\api.tests.csproj", "{5D4FF6AA-9672-4035-8171-FDF154E76BF2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
